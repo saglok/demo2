@@ -5,6 +5,7 @@ int  main()
     return 0;
 
     printf("Enter the number");
-    
+    printf("Number is");
+
 
 }
